@@ -1,0 +1,35 @@
+# Unreal Engine
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Visual Studio
+.vs/
+*.sdf
+*.opensdf
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+
+# Xcode
+*.xcworkspace
+*.xcuserdatad
+
+# Compiled Dynamic Libraries
+*.dylib
+*.so
+
+# Compiled Static Libraries
+*.lib
+*.a
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+UserSettings.ini
+.idea/
+Plugins/Developer/RiderLink/

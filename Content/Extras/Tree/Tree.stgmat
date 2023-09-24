@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated using SpeedTree tools -->
+<Materials Count="2" Packer="UE4">
+	<Material ID="3" Name="Conifer_Bark_Mat" TwoSided="0" UserData="" VertexOpacity="0" FlipNormalsOnBackside="1">
+		<Map Index="0" File="Conifer_Bark_Color.png" />
+		<Map Index="1" File="Conifer_Bark_Normal.png" />
+		<Map Index="2" File="Conifer_Bark_Subsurface.png" />
+	</Material>
+	<Material ID="23456" Name="Tree_Mat" TwoSided="1" UserData="" VertexOpacity="0" FlipNormalsOnBackside="1">
+		<Map Index="0" File="Tree_Color.png" />
+		<Map Index="1" File="Tree_Normal.png" />
+		<Map Index="2" File="Tree_Subsurface.png" />
+	</Material>
+</Materials>
